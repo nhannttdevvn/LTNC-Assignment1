@@ -1,0 +1,15 @@
+/Users/vanhuy/Desktop/NhanNguyen/Kì 5/C#/HelloWorldApp/bin/Debug/net5.0/HelloWorldApp.deps.json
+/Users/vanhuy/Desktop/NhanNguyen/Kì 5/C#/HelloWorldApp/bin/Debug/net5.0/HelloWorldApp.runtimeconfig.json
+/Users/vanhuy/Desktop/NhanNguyen/Kì 5/C#/HelloWorldApp/bin/Debug/net5.0/HelloWorldApp.runtimeconfig.dev.json
+/Users/vanhuy/Desktop/NhanNguyen/Kì 5/C#/HelloWorldApp/bin/Debug/net5.0/HelloWorldApp.dll
+/Users/vanhuy/Desktop/NhanNguyen/Kì 5/C#/HelloWorldApp/bin/Debug/net5.0/ref/HelloWorldApp.dll
+/Users/vanhuy/Desktop/NhanNguyen/Kì 5/C#/HelloWorldApp/bin/Debug/net5.0/HelloWorldApp.pdb
+/Users/vanhuy/Desktop/NhanNguyen/Kì 5/C#/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.csprojAssemblyReference.cache
+/Users/vanhuy/Desktop/NhanNguyen/Kì 5/C#/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vanhuy/Desktop/NhanNguyen/Kì 5/C#/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/vanhuy/Desktop/NhanNguyen/Kì 5/C#/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.AssemblyInfo.cs
+/Users/vanhuy/Desktop/NhanNguyen/Kì 5/C#/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/Users/vanhuy/Desktop/NhanNguyen/Kì 5/C#/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.dll
+/Users/vanhuy/Desktop/NhanNguyen/Kì 5/C#/HelloWorldApp/obj/Debug/net5.0/ref/HelloWorldApp.dll
+/Users/vanhuy/Desktop/NhanNguyen/Kì 5/C#/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.pdb
+/Users/vanhuy/Desktop/NhanNguyen/Kì 5/C#/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.genruntimeconfig.cache
