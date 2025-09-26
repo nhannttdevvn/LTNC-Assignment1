@@ -1,0 +1,17 @@
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\bin\Debug\net8.0-windows\Bai2Nhan.exe
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\bin\Debug\net8.0-windows\Bai2Nhan.deps.json
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\bin\Debug\net8.0-windows\Bai2Nhan.runtimeconfig.json
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\bin\Debug\net8.0-windows\Bai2Nhan.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\bin\Debug\net8.0-windows\Bai2Nhan.pdb
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\obj\Debug\net8.0-windows\Bai2Nhan.Form1.resources
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\obj\Debug\net8.0-windows\Bai2Nhan.csproj.GenerateResource.cache
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\obj\Debug\net8.0-windows\Bai2Nhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\obj\Debug\net8.0-windows\Bai2Nhan.AssemblyInfoInputs.cache
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\obj\Debug\net8.0-windows\Bai2Nhan.AssemblyInfo.cs
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\obj\Debug\net8.0-windows\Bai2Nhan.csproj.CoreCompileInputs.cache
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\obj\Debug\net8.0-windows\Bai2Nhan.sourcelink.json
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\obj\Debug\net8.0-windows\Bai2Nhan.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\obj\Debug\net8.0-windows\refint\Bai2Nhan.dll
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\obj\Debug\net8.0-windows\Bai2Nhan.pdb
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\obj\Debug\net8.0-windows\Bai2Nhan.genruntimeconfig.cache
+C:\Users\Phat Nguyen\OneDrive\Desktop\Lập trình nâng cao\Bai2Nhan\obj\Debug\net8.0-windows\ref\Bai2Nhan.dll
