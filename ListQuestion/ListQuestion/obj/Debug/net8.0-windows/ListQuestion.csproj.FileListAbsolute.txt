@@ -1,0 +1,16 @@
+C:\c#\ListQuestion\ListQuestion\bin\Debug\net8.0-windows\ListQuestion.exe
+C:\c#\ListQuestion\ListQuestion\bin\Debug\net8.0-windows\ListQuestion.deps.json
+C:\c#\ListQuestion\ListQuestion\bin\Debug\net8.0-windows\ListQuestion.runtimeconfig.json
+C:\c#\ListQuestion\ListQuestion\bin\Debug\net8.0-windows\ListQuestion.dll
+C:\c#\ListQuestion\ListQuestion\bin\Debug\net8.0-windows\ListQuestion.pdb
+C:\c#\ListQuestion\ListQuestion\obj\Debug\net8.0-windows\ListQuestion.Form1.resources
+C:\c#\ListQuestion\ListQuestion\obj\Debug\net8.0-windows\ListQuestion.csproj.GenerateResource.cache
+C:\c#\ListQuestion\ListQuestion\obj\Debug\net8.0-windows\ListQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\ListQuestion\ListQuestion\obj\Debug\net8.0-windows\ListQuestion.AssemblyInfoInputs.cache
+C:\c#\ListQuestion\ListQuestion\obj\Debug\net8.0-windows\ListQuestion.AssemblyInfo.cs
+C:\c#\ListQuestion\ListQuestion\obj\Debug\net8.0-windows\ListQuestion.csproj.CoreCompileInputs.cache
+C:\c#\ListQuestion\ListQuestion\obj\Debug\net8.0-windows\ListQuestion.dll
+C:\c#\ListQuestion\ListQuestion\obj\Debug\net8.0-windows\refint\ListQuestion.dll
+C:\c#\ListQuestion\ListQuestion\obj\Debug\net8.0-windows\ListQuestion.pdb
+C:\c#\ListQuestion\ListQuestion\obj\Debug\net8.0-windows\ListQuestion.genruntimeconfig.cache
+C:\c#\ListQuestion\ListQuestion\obj\Debug\net8.0-windows\ref\ListQuestion.dll

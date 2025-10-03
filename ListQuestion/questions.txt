@@ -1,0 +1,13 @@
+﻿Thủ đô của Việt Nam là?|TP.HCM|Hà Nội|Đà Nẵng|Huế|2
+2 + 2 = ?|3|4|5|22|2
+Trái đất quay quanh gì?|Mặt Trăng|Sao Hỏa|Mặt Trời|Chính nó|3	
+Môn thể thao nào được gọi là "vua của các môn thể thao"?|Bóng rổ|Bóng đá|Quần vợt|Cầu lông|2
+Ai là người sáng lập Microsoft?|Steve Jobs|Bill Gates|Mark Zuckerberg|Elon Musk|2
+Môn học nào thường được gọi là "môn học của các nhà khoa học"?|Toán học|Vật lý|Hóa học|Sinh học|1
+Thủ đô của Pháp là?|London|Berlin|Madrid|Paris|4
+Ai là tác giả của "Romeo và Juliet"?|Charles Dickens|Mark Twain|William Shakespeare|Jane Austen|3
+Loài vật nào được biết đến là "người bạn tốt nhất của con người"?|Mèo|Chó|Chim|Cá|2
+Môn học nào liên quan đến việc nghiên cứu các ngôi sao và hành tinh?|Địa lý|Sinh học|Thiên văn học|Hóa học|3
+Ai là người phát minh ra bóng đèn điện?|Nikola Tesla|Thomas Edison|Alexander Graham Bell|Isaac Newton|2
+Môn thể thao nào sử dụng vợt và quả cầu nhỏ?|Bóng đá|Bóng rổ|Quần vợt|Cầu lông|3
+
